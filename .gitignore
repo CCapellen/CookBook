@@ -1,3 +1,6 @@
+*.out
+*.dvi
+*.pdf
 *.aux
 *.glo
 *.idx
