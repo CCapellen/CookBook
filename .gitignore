@@ -1,3 +1,8 @@
+*.fdb_latexmk
+*.fls
+*.out
+*.dvi
+*.pdf
 *.aux
 *.glo
 *.idx
